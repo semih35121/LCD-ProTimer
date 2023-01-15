@@ -1,0 +1,15 @@
+app.c:14:8:find_digit_number	24	static
+app.c:22:6:do_beep	4	static
+app.c:27:6:isevent_thick	24	static
+app.c:49:6:display_event_handler	64	static
+app.c:133:6:copy_button_evt_to_general_evt	16	static
+app.c:137:6:copy_tick_info_to_general_struct	16	static
+app.c:142:6:protimer_state_handler_idle	120	static
+app.c:193:6:protimer_state_handler_timeset	24	static
+app.c:239:6:protimer_state_handler_countdown	16	static
+app.c:285:6:protimer_state_handler_pause	16	static
+app.c:326:6:protimer_state_handler_stat	16	static
+app.c:340:6:btn_event_handler	32	static
+app.c:384:13:create_protimer_t_obj	16	static
+app.c:390:6:pro_timer_init	16	static
+app.c:397:6:pro_timer_state_machine	16	static
